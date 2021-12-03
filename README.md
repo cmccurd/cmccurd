@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cameron McCurdy</h1>
 <h3 align="center">Fullstack engineer looking to create incredible applications.</h3>
 
-- 🔭 I’m currently working on [a Magic the Gathering deck builder alternative](FILL IN)
+- 🔭 I’m currently working on [a Magic the Gathering deck builder alternative]
 
 - 🌱 I’m currently learning **Python, Firebase Authentication**
 
@@ -9,11 +9,9 @@
 
 - 📫 How to reach me **cam.alex.mccurdy@gmail.com**
 
-- 📄 Know about my experiences [FILL IN RESUME](FILL IN RESUME)
+- 📄 Know about my experiences [https://www.linkedin.com/in/cmccurd/](https://www.linkedin.com/in/cmccurd/)
 
 - ⚡ Fun fact **I was 5th Grade Chess Champion in my elementary school.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
