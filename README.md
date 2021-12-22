@@ -1,3 +1,5 @@
+[![Social banner](https://github.com/cmccurd/cmccurd/blob/main/BG.png)]()
+
 <h1 align="center">Hi 👋, I'm Cameron McCurdy</h1>
 <h3 align="center">Fullstack engineer looking to create incredible applications.</h3>
 
