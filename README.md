@@ -58,7 +58,7 @@ Ask me about how I've used React.js, Node.js, AWS EC2, JWT Authentication!
 
  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
- </a>
+<!--  </a>
  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
  </a>
@@ -76,4 +76,4 @@ Ask me about how I've used React.js, Node.js, AWS EC2, JWT Authentication!
  </a>
  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
- </a>
+ </a> -->
