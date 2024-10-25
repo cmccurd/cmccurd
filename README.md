@@ -5,7 +5,7 @@
 <h1 align="center" >About Me 💬 :</h1>
 
 ### - Working on :
-I’m currently working on [a Magic the Gathering deck builder alternative].
+I’m currently working on [an Investment Simulation Application].
 
 ### - Learning :
 <a href="https://www.python.org/">
